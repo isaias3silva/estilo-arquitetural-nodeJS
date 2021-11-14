@@ -1,4 +1,4 @@
-import config from '../../config';
+import config from 'config';
 import db from '../database';
 import { User } from '../models/user.model';
 import { DatabaseError } from './../errors/database.error';
