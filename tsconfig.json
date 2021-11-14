@@ -25,7 +25,7 @@
 
     /* Modules */
     "module": "commonjs", 
-    "moduleResolution": "Node",
+    "moduleResolution": "node",
     "rootDir": "src",    
     "typeRoots": [
       "./src/@types",
