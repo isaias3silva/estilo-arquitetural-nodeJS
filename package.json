@@ -1,0 +1,19 @@
+{
+  "name": "ms-autentication",
+  "version": "1.0.0",
+  "description": "Microservice autentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaias3silva/estilo-arquitetural-nodeJS.git"
+  },
+  "author": "Isaías Martins da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaias3silva/estilo-arquitetural-nodeJS/issues"
+  },
+  "homepage": "https://github.com/isaias3silva/estilo-arquitetural-nodeJS#readme"
+}
